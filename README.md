@@ -10,11 +10,9 @@
 ## 💞️ Ich werde mit der Zeit bestimmt professioneller und wenn ich soweit bin, freue ich mich schon auf verschiedenen interessante Projekte.
 
 
-## 📫 Mein  Kontaktemail: erhalt5555@gmail.com 
+## 📫 Mein  Kontaktmail: erhalt5555@gmail.com 
 
 ![icons8-coding-32](https://user-images.githubusercontent.com/115163189/205720551-a2c4ad8b-00fe-4985-a306-693132b7688b.png)
-
-
 
 
 
