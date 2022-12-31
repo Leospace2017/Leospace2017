@@ -7,7 +7,7 @@
 ## 🌱 Ich bin zurzeit in DCI DigitalCareerInstitute und wird dort ausgebildet.
 
 
-## 💞️ Ich werde mit der Zeit bestimmt professioneller und wenn ich soweit bin, freue ich mich schon auf verschiedenen interessante Projekte.
+## 💞️ Ich werde mit der Zeit bestimmt professioneller und wenn ich soweit bin, freue ich mich schon auf verschiedenen interessante Projekte.Meine derzeitige Interesserichtung sind der Mobile und Spielentwicklungen, und diesen wird auch wahrscheinlich im Zukunft so bleiben.
 
 
 ## 📫 Mein  Kontaktmail: erhalt5555@gmail.com 
