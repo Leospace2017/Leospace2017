@@ -18,19 +18,16 @@
 ![icons8-coding-32](https://user-images.githubusercontent.com/115163189/205720551-a2c4ad8b-00fe-4985-a306-693132b7688b.png)
 
 
+### Skills
 
-### Hier sind vorerst meine Ziele:
-![icons8-konsole-32](https://user-images.githubusercontent.com/115163189/205720932-08a3ca1d-f8fd-433d-b0e2-ab7a409bf5a4.png)
-![icons8-github-32](https://user-images.githubusercontent.com/115163189/205720884-052f4930-b710-4aaf-aeea-9e5dffed425e.png)
-![icons8-html-32](https://user-images.githubusercontent.com/115163189/205722135-e62a62a5-306b-416c-9193-a789fd32d0bb.png)
-![icons8-javascript-logo-32](https://user-images.githubusercontent.com/115163189/205721827-9d3d19b0-04ec-434d-b5d1-3dc4d9e31a48.png)
-![icons8-css3-32](https://user-images.githubusercontent.com/115163189/205720746-b6b490ee-f47b-4668-93b0-bbb2a8730002.png)
-![Bootstrap](https://user-images.githubusercontent.com/115163189/205722113-398cd487-281d-4cc6-8a10-ac439238200b.png)
-![icons8-nodejs-32](https://user-images.githubusercontent.com/115163189/205720955-c816e93e-3dbf-4290-a3c9-ca1af7f00eda.png)
-![icons8-npm-32](https://user-images.githubusercontent.com/115163189/205720970-f615b79f-2701-41b9-bd7a-adce36a09a65.png)
-![icons8-react-32](https://user-images.githubusercontent.com/115163189/205721019-1a6f3e4a-172a-4a95-9700-623ed4f84f25.png)
-![icons8-firebase-32](https://user-images.githubusercontent.com/115163189/205721375-1b77ac2c-87c7-4bf5-a386-64423adaa55a.png)
 
-<!---
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a></p>
 
---->
+### Socials<p align="left"> <a href="https://www.github.com/Leospace2017" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Leospace2017"><img src="https://github-readme-stats.vercel.app/api?username=Leospace2017&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Leospace2017's GitHub stats" /></a>
