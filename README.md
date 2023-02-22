@@ -4,10 +4,10 @@
 ## 👀 Ich bin einer von vielen, der nachträglich der Weg zur Programmierung gewählt habe und in Programmierung verliebt ist.
 
 
-## 🌱 Ich bin zurzeit in DCI DigitalCareerInstitute und wird dort ausgebildet.
+## 🌱 Ich bin zurzeit in DCI DigitalCareer Institute und werde dort ausgebildet.
 
 
-## 💞️ Ich werde mit der Zeit bestimmt professioneller und wenn ich soweit bin, freue ich mich schon auf verschiedenen interessante Projekte.Meine derzeitige Interesserichtung sind der Mobile und Spielentwicklungen, und diesen wird auch wahrscheinlich im Zukunft so bleiben.
+## 💞️ Ich werde mit der Zeit bestimmt professioneller und wenn ich so weit bin, freue ich mich schon auf verschiedenen interessante Projekte. Meine derzeitigen Interessen sind der Mobile und Spielentwicklungen, und diesen wird auch wahrscheinlich im Zukunft so bleiben.
 
 ### Mein Link
 (([https://leospace2017.github.io/HtmlCssDictionary/](https://leospace2017.github.io/Portfolio/)))
