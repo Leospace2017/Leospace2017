@@ -1,13 +1,13 @@
 # 👋 Hi, ich bin Yanhui Wu.
 
 
-## 👀 Ich bin einer von vielen, der nachträglich der Weg zur Programmierung gewählt habe und in Programmierung verliebt ist.
+## 👀 Ich gehöre zu denjenigen, die sich später für den Weg der Programmierung entschieden haben und seitdem eine Leidenschaft für das Programmieren entwickelt haben.
 
 
-## 🌱 Ich bin zurzeit in DCI DigitalCareer Institute und werde dort ausgebildet.
+## 🌱 Derzeit absolviere ich eine Ausbildung am DCI (Digital Career Institute) und erweitere dort meine Kenntnisse und Fähigkeiten.
 
 
-## 💞️ Ich werde mit der Zeit bestimmt professioneller und wenn ich so weit bin, freue ich mich schon auf verschiedenen interessante Projekte. Meine derzeitigen Interessen sind der Mobile und Spielentwicklungen, und diesen wird auch wahrscheinlich im Zukunft so bleiben.
+## 💞️ Ich bin davon überzeugt, dass ich mit der Zeit immer professioneller werden und mich auf spannende Projekte freuen werde. Mein besonderes Interesse gilt der Entwicklung von mobilen Anwendungen und Spielen, und ich denke, dass ich mich in Zukunft weiterhin auf diese Bereiche konzentrieren werde.
 
 ### Mein Link
 [https://leospace2017.github.io/ReactPortfoliov2/](https://leospace2017.github.io/ReactPortfoliov2/)
