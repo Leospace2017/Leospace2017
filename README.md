@@ -7,7 +7,7 @@
 ## 🌱 Derzeit absolviere ich eine Ausbildung am DCI (Digital Career Institute) und erweitere dort meine Kenntnisse und Fähigkeiten.
 
 
-## 💞️ Ich bin davon überzeugt, dass ich mit der Zeit immer professioneller werden und mich auf spannende Projekte freuen werde. Mein besonderes Interesse gilt der Entwicklung von mobilen Anwendungen und Spielen, und ich denke, dass ich mich in Zukunft weiterhin auf diese Bereiche konzentrieren werde.
+## 💞️ Ich bin davon überzeugt, dass ich mit der Zeit immer professioneller werden und mich auf spannende Projekte freuen werde.
 
 ### Mein Link
 [https://leospace2017.github.io/ReactPortfoliov2/](https://leospace2017.github.io/ReactPortfoliov2/)
