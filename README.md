@@ -7,7 +7,7 @@
 ## 🌱 Derzeit absolviere ich eine Ausbildung am DCI (Digital Career Institute) und erweitere dort meine Kenntnisse und Fähigkeiten.
 
 
-## 💞️ Ich bin davon überzeugt, dass ich mit der Zeit immer professioneller werden und mich auf spannende Projekte freuen werde.
+## 💞️ Ich bin davon überzeugt, dass ich mit der Zeit immer professioneller werde und ich freue mich schon auf spannenden Projekte.
 
 ### Mein Link
 [https://leospace2017.github.io/ReactPortfoliov2/](https://leospace2017.github.io/ReactPortfoliov2/)
@@ -39,24 +39,6 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 
-### Apart from that, there are some other frameworks that I have been playing with. And just to play with, there are too many interesting frameworks out there. Don't expect me to use them very well. Its a job of learning by doing. Just want to say that. Peace.❤️‍🔥
-Css:
-Framermotion
-Shadcn/ui
 
-React:
-React-Router
-React-Query
-SWC
-
-Backend:
-Zod
-Mongoose
-GraphQl Apollo
-trpc
-Prisma
-
-
-</p>
 
 ### Socials<p align="left"> <a href="https://www.github.com/Leospace2017" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yanhui-wu-452391252" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>             
