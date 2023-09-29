@@ -9,9 +9,6 @@
 
 ## 💞️ Ich bin davon überzeugt, dass ich mit der Zeit immer professioneller werde und ich freue mich schon auf spannenden Projekte.
 
-### Mein Link
-[https://leospace2017.github.io/ReactPortfoliov2/](https://leospace2017.github.io/ReactPortfoliov2/)
-
 
 ## 📫 Mein  Kontaktmail: webdeveloperyan@gmail.com
 
