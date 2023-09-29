@@ -1,10 +1,10 @@
-# 👋 Hi, ich bin Yanhui Wu.
+# 👋 Hi, ich bin Yanhui Wu. 
 
 
-## 👀 Ich gehöre zu denjenigen, die sich später für den Weg der Programmierung entschieden haben und seitdem eine Leidenschaft für das Programmieren entwickelt haben.
+## 👀 Ich bin ein verantwortungsbewusster Vater und gehöre zu den Menschen, die sich erst später für den Weg der Programmierung entschieden haben, aber seitdem eine leidenschaftliche Begeisterung für das Programmieren entwickelt haben.
 
 
-## 🌱 Derzeit absolviere ich eine Ausbildung am DCI (Digital Career Institute) und erweitere dort meine Kenntnisse und Fähigkeiten.
+## 🌱 Ich bin immer lernbereit und freue mich darauf, bei Bedarf neue und populäre Technologien zu erlernen, um meine Fähigkeiten kontinuierlich zu erweitern.
 
 
 ## 💞️ Ich bin davon überzeugt, dass ich mit der Zeit immer professioneller werde und ich freue mich schon auf spannenden Projekte.
